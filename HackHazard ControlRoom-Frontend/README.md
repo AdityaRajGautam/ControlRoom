@@ -26,16 +26,4 @@ For more detailed information about our project, including its goals, technical 
 
 We are committed to enhancing public safety through innovative technology and look forward to potential collaborations and support for further development and deployment of our solution.
 
-## Team Members
-
-Our project is the result of collaborative efforts from a dedicated and skilled team:
-
-1. **Abhishek Kumar**
-- Proficient in converting innovative ideas into functional code.
-
-2. **s Raj Gautam**
-   - An enthusiastic team Leader keen to excel in the latest technologies.
-
-3. **Dimple**
-   - An all-rounder contributing diverse skills and expertise to the project.
 
